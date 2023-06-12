@@ -10,4 +10,4 @@ By default, the server configured is "localhost" with port "8080". These setting
 
 ## Getting started with the server
 
-bIf you want to host your own ICHI server, open the file uno_srv.ipynb in Jupyter Notebook and select "Cell" -> "Run all". By default, the port used by the server is 8080, but you can change this in the notebook (the location where the change is to be made is indicated).
+If you want to host your own ICHI server, open the file uno_srv.ipynb in Jupyter Notebook and select "Cell" -> "Run all". By default, the port used by the server is 8080, but you can change this in the notebook (the location where the change is to be made is indicated).

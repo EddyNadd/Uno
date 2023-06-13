@@ -2,6 +2,13 @@
 
 
 
+## Module needed to play the game. 
+
+This game is using the module pygame, so you will have to be sure to have it installed on your computer, if it isn't installed use the command <pip install pygame>.
+(If you have an error about a missing module, please install it. Normally all the other needed are already installed with anaconda but if you modified it for some reason maybe you don't have them anymore)
+
+Once you get it, you will be able to enjoy our game !
+
 ## Getting started with the client
 
 This game is played in a Jupyter Notebook. To launch it, open uno_client.ipyn in Jupyter Notebook and select "Cell" -> "Run all".

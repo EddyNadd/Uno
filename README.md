@@ -1,4 +1,4 @@
-# Equipe 3 - Uno
+# Uno
 
 
 
